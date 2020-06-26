@@ -1,4 +1,4 @@
-## commit style 
+## Commit style 
 
 123 - Title of the task
 
