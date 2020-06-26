@@ -1,3 +1,16 @@
+## commit style 
+
+123 - Title of the task
+
+* Description of change that were introduced in commit 
+* Same here
+
+## Naming Style
+
+* We use only characters from base table (english) to name the files and directories in repo
+
+----
+
 # This is repo for docs related to manufacturing the Detecta Group first smart portable gas detector
 
 # Table of contents
