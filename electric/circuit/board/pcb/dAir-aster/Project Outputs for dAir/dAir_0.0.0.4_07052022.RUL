@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Projects\Волков\Доработка с кнопкой 07052022\D-Air 0.0.0.4\PCB project 07052022\dAir_0.0.0.4_07052022.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

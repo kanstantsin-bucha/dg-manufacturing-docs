@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [dAir-aster_0.0.0.4_07052022.PrjPCB]
+   Generated File[dAir_0.0.0.4_07052022-RoundHoles-Plated.TXT]
+   Generated File[dAir_0.0.0.4_07052022-RoundHoles-NonPlated.TXT]
+   Generated File[dAir_0.0.0.4_07052022-SlotHoles-Plated.TXT]
+   Generated File[dAir_0.0.0.4_07052022.LDP]
+   Generated File[dAir_0.0.0.4_07052022.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 22:35:57 On 09.05.2022
